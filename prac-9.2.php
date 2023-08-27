@@ -1,6 +1,6 @@
-
+<h1>Udit Vegad(216090307001)</h1>
 <?php
- echo "<h1> Vora Jainam(216090307030)</h1>";
+
 // Check if the cookie is set
 if(isset($_COOKIE["u_name"])){
     // Retrieve the cookie value and display it

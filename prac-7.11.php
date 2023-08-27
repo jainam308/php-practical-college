@@ -13,7 +13,7 @@ $person1 = new Person("Jainam");
 
 // Clone the object and store it in a new variable
 $person2 = clone $person1;
-
+$person2->name="haf";
 echo "Original object:" ;
 var_dump($person1);
 
