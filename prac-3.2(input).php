@@ -1,4 +1,4 @@
-<h1> Udit Vegad(216090307001)</h1>
+<h1> Jainam vora</h1>
 <form action="output.php" method="POST">
     <input type="number" name="bp" placeholder="Enter Basic Pay(salary)">
     <br />  

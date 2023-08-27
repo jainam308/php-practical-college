@@ -1,5 +1,5 @@
 <h1>
-    Udit Vegad(216090907001)
+  Jainam vora
 </h1>
 <form action="output.php" method="POST">
     <input type="text" name="fname" placeholder="First Name">

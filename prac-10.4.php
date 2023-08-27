@@ -13,7 +13,7 @@ mysqli_close($conn);
 ?>
 
 <!-- Display employee information -->
-<h1 style="color:gray;" align="start">Udit Vegad(216090307001)</h1>
+<h1 style="color:gray;" align="start">Jainam vora</h1>
 
 <h1>Welcome, <?php echo $employee['name']; ?></h1>
 <p>Email: <?php echo $employee['email']; ?></p>

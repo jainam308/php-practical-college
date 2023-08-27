@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ?>
 
 <!-- HTML form -->
-<h1 style="color:gray;" align="start">Udit Vegad(216090307001)</h1>
+<h1 style="color:gray;" align="start">Jainam vora</h1>
 
 <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
     <?php if (isset($msg)) { ?>
